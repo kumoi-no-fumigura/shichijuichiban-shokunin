@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shichijuichiban-shokunin",
  "yomi": "しちじゅういちばんしょくにんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "職人歌合",
+  "era": "室町後期",
+  "author": "未詳",
+  "desc": "142種の職人を左右に番え、「月」と「恋」の題で歌を合わせた最大の職人歌合。奥書に、絵は土佐光信、詞書は東坊城和長の筆とある。"
+ },
  "editions": [
   {
    "pid": "1879575",
